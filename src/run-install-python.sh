@@ -1,0 +1,1 @@
+sudo -E pip install opencv-python opencv-contrib-python jupyterlab matplotlib ipywidgets notebook jupyter-book
